@@ -1,0 +1,18 @@
+.navbarContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 25px;
+  background-color: #333;
+  height: 60px;
+  font-size: 24px;
+}
+.nav-link {
+  text-decoration: none;
+  margin: 0 10px;
+  color: white;
+}
+
+.active {
+  color: red;
+}

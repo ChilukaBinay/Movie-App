@@ -1,0 +1,6 @@
+.favouritesMovieCard {
+  background-color: #333;
+
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}

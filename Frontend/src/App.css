@@ -1,0 +1,6 @@
+.Navbar {
+  background-color: #333;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
